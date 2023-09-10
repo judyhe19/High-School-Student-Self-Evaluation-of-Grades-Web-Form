@@ -1,4 +1,4 @@
-# High-School-Student-Self-Evaluation-of-Grades-Web-Form
+# High School Student Self Evaluation of Grades Web Form
 A full-stack web app for AISB's (The American International School of Budapest) administrative and tech departments to collect students' quarterly grade self-evaluations. This app enhanced communication between students and teachers regarding academic performance. Produced a student instructions manual and a technology setup manual.
 
 This app has been transferred to AISB’s Director of Technology and Innovation for long-term usage.
@@ -6,4 +6,6 @@ This app has been transferred to AISB’s Director of Technology and Innovation 
 Technical languages/tools/frameworks applied:
 - Backend: Google Apps Script, Google Sheets (as the database)
 - Frontend: JavaScript, HTML/CSS
+
+# LINK TO CODE: https://script.google.com/d/1fb0rZRPPikCzuybPNvLAEm4OK1UJvjUaBzw3uOC3PypUieJ2pdGZqgHn/edit?usp=sharing 
 
